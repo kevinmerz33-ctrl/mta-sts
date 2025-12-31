@@ -2,4 +2,3 @@ version: STSv1
 mode: testing
 mx: mail.finance.bayern
 max_age: 86400
-1
